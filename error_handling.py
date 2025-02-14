@@ -5,8 +5,6 @@ This module provides consistent error message formatting and
 standard error messages for common scenarios.
 """
 
-from typing import Optional
-
 from debug_utils import DEBUG_MODE, display_debug
 from terminal_colors import display_error, display_warning
 

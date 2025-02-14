@@ -1,0 +1,22 @@
+{
+  "API": {
+    "Key": "QlV59fQbFqGUKsd4J55INrgqQ",
+    "Secret": "xQwSh0c0Bjkhd1PJqhC6iruNGYrEjLzFwgSvyZYC1x77sHwhzW"
+  },
+  "Consumer": {
+    "Key": "YourConsumerKey",
+    "Secret": "YourConsumerSecret"
+  },
+  "Access": {
+    "Key": "1683879600328146944-EZ9Wzk1Btn6WLyLKe4X4NOdotBm4G2",
+    "Secret": "ECbM5ZlEpSjWCd7XPN6Ddp9ItLvhhmnqR2v35Hu1mBEDB"
+  },
+  "Bearer": {
+    "Key": "AAAAAAAAAAAAAAAAAAAAANhfzAEAAAAAn1MSdD1WitgIubvOEqZk5aJlzn4%3Dc7qqbEhYedY1xJpP846J31LJrqUpEsc5hHedmrw3p1eZjDxw4P",
+    "Secret": "YourBearerTokenSecret"
+  },
+  "User": {
+    "Key": "key",
+    "Secret": "secret"
+  }
+}
